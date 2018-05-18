@@ -1,0 +1,18 @@
+body {
+    background-image: url("../images/dark-triangles.png");
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+    
+  }
+
+#profile-pic {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+   
+}

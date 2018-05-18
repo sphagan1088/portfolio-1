@@ -1,0 +1,21 @@
+body {
+    background-image: url("../images/dark-triangles.png");
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+    
+  }
+
+.port-header {
+    color: white;
+}
+
+.port-imgs {
+    height: 250px;
+    width: 400px;
+    padding: 10px;
+}
